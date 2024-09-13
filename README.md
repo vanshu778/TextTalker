@@ -1,4 +1,4 @@
-# Text Talker
+# 🗣️ Text Talker
 
 **Text Talker** is a simple yet powerful web application that converts written text into spoken words using the Web Speech API. This tool is perfect for accessibility, presentations, or just having fun listening to text in a natural-sounding voice.
 
